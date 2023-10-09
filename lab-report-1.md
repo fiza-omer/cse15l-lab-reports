@@ -6,6 +6,6 @@ cd
 ![Image](cdexamples.png)
 
 ls
-
+![Image](lsexamples.png)
 
 cat
