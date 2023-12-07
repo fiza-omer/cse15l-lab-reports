@@ -46,6 +46,6 @@
   ![Image](workingoutput-ss.png)
 
 
-  ## Part 2 - Reflection
+## Part 2 – Reflection
 
   I think it's cool how we interact, similar to the collaborative push and pull process on GitHub. I did not know how to do that before. It seems really usefull for a lot of scenarios. I also really like bash. I though that its a lot more simple than having to constantly be writing commands into the terminal
